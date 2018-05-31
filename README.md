@@ -1,1 +1,1 @@
-# Matplotlib-Tutorials
+Matplotlib tutorials.
